@@ -1,4 +1,4 @@
-# BrightTech – Bootstrap Task 1
+#  Bootstrap Task 1
 
 This is a simple, responsive website built using **Bootstrap 5** as part of a web development internship task.
 
