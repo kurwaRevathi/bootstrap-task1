@@ -36,7 +36,3 @@ This is a simple, responsive website built using **Bootstrap 5** as part of a we
 
 ---
 
-## ✅ Author
-
-Revathi Kurwa  
-Intern at InternPe  
